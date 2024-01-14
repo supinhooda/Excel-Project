@@ -11,7 +11,8 @@ Welcome to the AtliQ Hardware Analysis project, an in-depth exploration of sales
 1. Create a [Customer Performance Report](https://github.com/supinhooda/Excel/blob/main/AtliQ%20Hardware%20Analysis%20-%20Excel/AtliQ%20Customer%20Performance%20Report.pdf)
 
 
-2. Conduct a comprehensive comparison between market performance and sales targets
+2. Conduct a comprehensive comparison between [Market Performance and Sales Targets](https://github.com/supinhooda/Excel/blob/main/AtliQ%20Hardware%20Analysis%20-%20Excel/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+
 
 ## 🎯 Purpose of Sales Analytics
 
