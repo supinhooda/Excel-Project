@@ -24,13 +24,10 @@ Sales data serves as a cornerstone for understanding the financial health of a b
 
 ## 🛠️ Role of the Reports Mentioned
 
-The reports outlined in the project objective serve as strategic tools for supporting financial decision-making:
 
-- **Sales Breakdown by Division:** Pinpoints high-performing divisions for reinforcement and low-performing ones for strategic improvement.
-- **Top 5 Countries by Revenue:** Guides targeted marketing and sales efforts toward regions with the highest revenue potential.
-- **Top 10 Products by Revenue:** Optimizes inventory management and directs product development strategies.
-- **New Products Sales Launched in 2021:** Assesses the success of recent product launches, informing future innovation.
-
+- **Customer Performance Analysis:** Identifies customers at risk of churning, enabling targeted retention efforts and personalized strategies.
+- **Market Performance vs Target:** Highlights underperforming markets, paving the way for tailored marketing campaigns.
+  
 ## Finance Report
 
 ### Project Objective:
@@ -53,8 +50,6 @@ Financial data is the lifeblood of organizational health, providing essential in
 
 The reports listed in the project objective play pivotal roles in supporting financial decision-making:
 
-- **Customer Performance Analysis:** Identifies customers at risk of churning, enabling targeted retention efforts and personalized strategies.
-- **Market Performance vs Target:** Highlights underperforming markets, paving the way for tailored marketing campaigns.
 - **Profit and Loss:** Pinpoints departments losing money, facilitating strategic decisions for cost reduction or revenue increase.
 - **Profit and Loss Markets:** Identifies highly profitable markets, enabling resource allocation optimization.
 - **Profit and Loss by Fiscal Months:** Aids in identifying and budgeting for seasonal trends in sales, fostering proactive financial planning.
