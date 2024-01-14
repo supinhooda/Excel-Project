@@ -59,21 +59,6 @@ The reports listed in the project objective play pivotal roles in supporting fin
 - **Profit and Loss Markets:** Identifies highly profitable markets, enabling resource allocation optimization.
 - **Profit and Loss by Fiscal Months:** Aids in identifying and budgeting for seasonal trends in sales, fostering proactive financial planning.
 
-## 📈 Reports Generated with Insights
-
-### Sales Analysis
-- Sales breakdown by division
-- Top 5 countries by revenue
-- Top 10 products by revenue
-- Top and bottom 5 products by quantity sold
-- New products sales launched in 2021
-
-### Finance Analysis
-- Customer Performance Analysis
-- Market Performance vs Target
-- Profit and Loss
-- Profit and Loss Markets
-- Profit and Loss by Fiscal Months
 
 ## 🛠️ Technical Skills Demonstrated
 
