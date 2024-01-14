@@ -34,9 +34,11 @@ The reports outlined in the project objective serve as strategic tools for suppo
 
 ### Project Objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year
+1. Create [Profit and Loss (P&L) by Fiscal Year](https://github.com/supinhooda/Excel/blob/main/AtliQ%20Hardware%20Analysis%20-%20Excel/AtliQ%20P%26L%20Statement%20by%20Months.pdf)
 
-2. Create Profit and Loss (P&L) reports by Markets
+
+2. Create [Profit and Loss (P&L) by Markets](https://github.com/supinhooda/Excel/blob/main/AtliQ%20Hardware%20Analysis%20-%20Excel/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+
 
 ## 📊 Purpose of Finance Analytics
 
